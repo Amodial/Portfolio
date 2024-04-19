@@ -1,8 +1,7 @@
 # Portfolio
-The grocery tracker tracks the current inventory of item, the histogram of items, and searches for the item in the inventory.
-I feel that the code is pretty clean and easily understood. I realized that I could have used "using namespace std" to reduce the traffic of the code.
-I could have probably inserted a class to have a better code that is easier to be understood once they understand the prupose of that class.
-I found that printing the histogram to be the hardest because I wasn't familiar with that type of code and had many trial and errors before I figured it out.
-I looked up how to create histogram with C++ in different ways and looked in Stack Overflow and Youtube videos to have a better grasp of the histogram as I programmed it.
-The skill of using text files as it was the first time reading a file, using the data stored in it and then finally closing it.
-I added comments to make the program maintainable, readable, and adaptable.
+
+Interpreting user needs and implementing them into a program involves understanding the end-users' goals, preferences, and pain points. User stories, which are concise descriptions of a feature told from the perspective of the end-user, help in this process by providing a clear understanding of what users want to accomplish and why. By creating user stories, developers can prioritize features based on user value and ensure that the program aligns with the users' needs and expectations.
+
+When approaching program development, I adopt an iterative and collaborative approach. I believe in breaking down projects into smaller, manageable tasks and delivering value incrementally. Agile processes, such as Scrum or Kanban, facilitate this approach by promoting transparency, adaptability, and continuous improvement. In my future development work, I hope to incorporate agile practices like daily stand-ups, sprint planning, and retrospectives to foster collaboration, mitigate risks, and deliver high-quality software efficiently.
+
+Being a good team member in software development involves effective communication, collaboration, and commitment to the team's goals. It means actively participating in discussions, sharing knowledge and ideas, and being open to feedback and constructive criticism. Good team members also contribute to a positive team culture by fostering mutual respect, trust, and accountability. Ultimately, success in software development relies on the collective effort of a cohesive and motivated team working towards a common objective.
